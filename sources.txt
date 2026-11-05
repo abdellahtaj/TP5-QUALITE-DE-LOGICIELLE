@@ -1,0 +1,7 @@
+C:\Users\ETUDIANT\Downloads\gestion_Bib_V2-main\gestion_bib\src\library\app\LibraryApp.java
+C:\Users\ETUDIANT\Downloads\gestion_Bib_V2-main\gestion_bib\src\library\model\Book.java
+C:\Users\ETUDIANT\Downloads\gestion_Bib_V2-main\gestion_bib\src\library\model\DigitalBook.java
+C:\Users\ETUDIANT\Downloads\gestion_Bib_V2-main\gestion_bib\src\library\model\Lendable.java
+C:\Users\ETUDIANT\Downloads\gestion_Bib_V2-main\gestion_bib\src\library\service\Customer.java
+C:\Users\ETUDIANT\Downloads\gestion_Bib_V2-main\gestion_bib\src\library\service\Library.java
+C:\Users\ETUDIANT\Downloads\gestion_Bib_V2-main\gestion_bib\src\library\util\NumberClassifier.java
